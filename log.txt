@@ -1,0 +1,186 @@
+commit 12a6ece8a9203a73cade58808075c1dfc1c5c1b1
+Author: JacCars <67915417+JacCars@users.noreply.github.com>
+Date:   Wed Aug 12 13:10:30 2020 +0200
+
+    Create __init__.py file and populate
+    
+    Testing if this fixes the package
+
+commit 998a418f1736b7a81b43380ffa033a720c431cef
+Author: Simangele Maphanga <Simangeleinno@gmail.com>
+Date:   Tue Aug 4 12:30:04 2020 +0200
+
+    Revert "Merge branch 'master' of https://github.com/bmqhamane/team_7_analyse_eskom_package"
+    
+    This reverts commit 2c0e267ad41ffdcfe099469fdd1c29f69b9db4bc, reversing
+    changes made to 274292704930ae479264464bde87ee389cbe3995.
+
+commit 2c0e267ad41ffdcfe099469fdd1c29f69b9db4bc
+Merge: 2742927 0ca9bb8
+Author: Simangele Maphanga <Simangeleinno@gmail.com>
+Date:   Tue Aug 4 12:29:04 2020 +0200
+
+    Merge branch 'master' of https://github.com/bmqhamane/team_7_analyse_eskom_package
+
+commit 274292704930ae479264464bde87ee389cbe3995
+Author: Simangele Maphanga <Simangeleinno@gmail.com>
+Date:   Tue Aug 4 12:28:53 2020 +0200
+
+    update README.md
+
+commit 0ca9bb880ba8335d039eb11f7a56ca7053f3eb6f
+Author: JacCars <carstensjacques3@gmail.com>
+Date:   Tue Aug 4 12:19:13 2020 +0200
+
+    fixing reame headings
+
+commit c861e9e519fdc9c61e664ec6e2bde898f16bee7e
+Author: JacCars <carstensjacques3@gmail.com>
+Date:   Tue Aug 4 12:09:54 2020 +0200
+
+    updated readme for Joanne meeing
+
+commit 698d38125b6f57ba59f17acf98287e504d065a64
+Merge: 37ca816 76543cc
+Author: JacCars <carstensjacques3@gmail.com>
+Date:   Tue Aug 4 12:07:11 2020 +0200
+
+    Merge branch 'master' of https://github.com/bmqhamane/team_7_analyse_eskom_package
+
+commit 76543ccc6562719ac3412c424dad005d20d3bc20
+Author: 1Mari <68608200+1Mari@users.noreply.github.com>
+Date:   Tue Aug 4 11:29:34 2020 +0200
+
+    Update README.md
+
+commit e5394ef2ddb14a586a11ff9258683d59c40b36ce
+Author: Katness-AI <68541038+Katness-AI@users.noreply.github.com>
+Date:   Tue Aug 4 10:53:04 2020 +0200
+
+    Update Eskom_7functions.py
+    
+    doc strings to function 7.
+
+commit 37ca81601beae65dc9d6376b606fe88cb6a17816
+Author: JacCars <carstensjacques3@gmail.com>
+Date:   Tue Aug 4 10:50:28 2020 +0200
+
+    updated readme
+
+commit dbcb57243a3f3bfb8c634ea7ea1a7f409e0729dc
+Author: Katness-AI <68541038+Katness-AI@users.noreply.github.com>
+Date:   Tue Aug 4 10:44:15 2020 +0200
+
+    Update README.md
+
+commit 199b375a0f17b8d65174dcb1256078af7a4bb7ff
+Author: bukelwa mqhamane <bmqhamane@gmail.com>
+Date:   Tue Aug 4 10:05:48 2020 +0200
+
+    Update test
+
+commit a92fd7b901f20d49d74644b68f629a93fab3c19e
+Author: bukelwa mqhamane <bmqhamane@gmail.com>
+Date:   Tue Aug 4 09:58:24 2020 +0200
+
+    Update README.md
+
+commit c974f6276e3de70354c670fd6f683d9458be0c1f
+Author: Katness-AI <katleho@southatlantic.net>
+Date:   Tue Aug 4 08:35:51 2020 +0200
+
+    Function description on the ReadME file
+
+commit 0ae33a38608b24f3d15b421c99842393010dbf41
+Author: Katness-AI <katleho@southatlantic.net>
+Date:   Tue Aug 4 08:14:26 2020 +0200
+
+    Updated function 6 and added Doc Strings
+
+commit 9a0a5855b909e9872d9978973ba8dce5d2481a19
+Author: 1Mari <68608200+1Mari@users.noreply.github.com>
+Date:   Mon Aug 3 22:04:10 2020 +0200
+
+    Update README.md
+
+commit 84e48533ae5cbc341132ec1f018ca36ee23984cd
+Merge: c361752 72d77c2
+Author: JacCars <carstensjacques3@gmail.com>
+Date:   Mon Aug 3 11:11:19 2020 +0200
+
+    Commiting changes on origin/dev to origin/master
+
+commit 72d77c2db5115913fcc72d9df11ae94a6fbae865
+Author: JacCars <carstensjacques3@gmail.com>
+Date:   Mon Aug 3 11:03:36 2020 +0200
+
+    Updated reame file - please check. Updated functions To do list in functions file - please check
+
+commit c361752e92bb7ac2e8636bf77c293fb30e9f78d6
+Author: JacCars <carstensjacques3@gmail.com>
+Date:   Mon Aug 3 10:41:29 2020 +0200
+
+    Updated functions 4/5 readme info, worked on functions file
+
+commit 323a705ac2d278d464f8cd8db50adcf78b78495e
+Author: JacCars <carstensjacques3@gmail.com>
+Date:   Fri Jul 31 18:20:58 2020 +0200
+
+    Added to structure and content of readme file
+
+commit 6256476a26009bfa9549f10f7295b5d24002692f
+Author: JacCars <carstensjacques3@gmail.com>
+Date:   Fri Jul 31 17:39:38 2020 +0200
+
+    Commiting central functions file to master, already on dev
+
+commit 9d8ddac68f60ea89e52caa5454b12bfe4ed9dea0
+Author: Katness-AI <katleho@southatlantic.net>
+Date:   Fri Jul 31 11:34:43 2020 +0200
+
+    Updated word splitter
+
+commit d283c721f9e78b4e08c8ad66c888d51aba0f7ab7
+Author: bukelwa mqhamane <bmqhamane@gmail.com>
+Date:   Fri Jul 31 09:08:18 2020 +0200
+
+    Update setup.ppy
+
+commit f2158255b7e48aba3e117f945ea7e0403f5b5e53
+Author: bukelwa mqhamane <bmqhamane@gmail.com>
+Date:   Fri Jul 31 08:43:09 2020 +0200
+
+    Update dictionary_of_metrics
+
+commit 384312db0cf3b5ac6d6e676cbb8ff07b3b5189c0
+Merge: c134f1a e8b98b3
+Author: bukelwa mqhamane <bmqhamane@gmail.com>
+Date:   Fri Jul 31 08:12:50 2020 +0200
+
+    Merge branch 'master' of https://github.com/bmqhamane/team_7_analyse_eskom_package
+
+commit c134f1a310dc1342b71fa20e6105d9ef541f346c
+Author: bukelwa mqhamane <bmqhamane@gmail.com>
+Date:   Fri Jul 31 08:11:05 2020 +0200
+
+    Updated dictionary_of_metrics
+
+commit e8b98b351ccbb37f3ef4dbcb9a371168d6f2cf64
+Author: Simangele Maphanga <Simangeleinno@gmail.com>
+Date:   Thu Jul 30 19:42:20 2020 +0200
+
+    Update date_parser.py
+    
+    first commit master branch function3.py
+
+commit 39048e8285c349e5dbdc18813bbead36a0a3e3d7
+Author: bukelwa mqhamane <bmqhamane@gmail.com>
+Date:   Thu Jul 30 00:28:05 2020 +0200
+
+    creation of package structure
+
+commit e1202a3bdc00401a7f32d2429a88f1f029bbc913
+Author: bmqhamane <39062173+bmqhamane@users.noreply.github.com>
+Date:   Tue Jul 21 17:13:54 2020 +0200
+
+    Initial commit
